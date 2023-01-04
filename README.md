@@ -50,4 +50,4 @@ If you would like to contribute to this Nix Flake, please feel free to submit a 
 License
 -------
 
-tsv-utils is licensed under the MIT License. See the [LICENSE](https:///LICENSE) file for more information.
+tsv-utils is licensed under the MIT License. See the [LICENSE](https://mit-license.org/) file for more information.

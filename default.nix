@@ -11,7 +11,7 @@
   nativeBuildInputs = [ dmd ldc ];
   #makeFlags = [ "DCOMPILER=ldc2 LDC_LTO_RUNTIME=1" "LDC_PGO=2" ];
   installPhase = ''
-    find ./bin
+    mkdir -p $out
     cp -R ./bin $out/
     '';
 }
